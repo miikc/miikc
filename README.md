@@ -16,4 +16,4 @@
 ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg) ![Typescript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg)
 
 # Extra:
-![GPL3](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg) <img src="https://m3-markdown-badges.vercel.app/stars/11/1/strafechat/frontend">
+![GPL3](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg)
